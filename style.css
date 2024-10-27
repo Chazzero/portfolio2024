@@ -43,3 +43,28 @@ p {
     font-weight: 900;
     font-style: normal;
   }
+  #ca {
+    border: 10px solid rgb(178, 78, 78);
+    border-width: 10px 40px;
+  }
+  #pequesdiv {
+    width: 100%;
+    background-color: black;
+    font-family: "Libre Baskerville", serif;
+    padding: 50px 0px 30px 0px;
+  }
+#pequesdiv img{
+    width: 40%;
+    height: 40%;
+
+}
+#pequesdiv h1{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+#pequesdiv p {
+    background-color: black;
+    color: white;
+}
